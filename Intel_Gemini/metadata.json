@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Gemini Video Intelligence POC",
+  "description": "An NVIDIA-inspired video search and summarization tool using Gemini 2.5 Flash for deep video understanding, featuring automatic highlights and an interactive chat interface.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
